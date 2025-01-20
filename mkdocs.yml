@@ -42,3 +42,15 @@ theme:
     # 可以通过按钮复制代码
     # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#code-copy-button
     - content.code.copy
+
+extra:
+  # tags:
+  #   HTML5: html
+  #   JavaScript: js
+  #   CSS: css
+  generator: true  #页脚显示Made with Material for MkDocs
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Bakameow
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/179532110
