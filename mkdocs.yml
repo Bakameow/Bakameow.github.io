@@ -26,7 +26,7 @@ theme:
     - navigation.tabs
     # 返回顶部的按钮，在上滑时出现
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#back-to-top-button
-    - navigation.top
+    # - navigation.top
     # 给每个 Tab 添加一个 index.md，且在点击 Tab 时打开
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages-with-section-index-pages
     - navigation.indexes
